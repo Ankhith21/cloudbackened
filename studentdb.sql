@@ -13,6 +13,6 @@ CREATE TABLE IF NOT EXISTS students (
 
 -- Insert sample data
 INSERT INTO students (name, email, age, department) VALUES
-('Alice Johnson', 'alice@example.com', 21, 'Computer Science'),
+('nicky', 'alice@example.com', 21, 'Computer Science'),
 ('Bob Smith', 'bob@example.com', 22, 'Mathematics'),
 ('Clara Evans', 'clara@example.com', 20, 'Physics');
